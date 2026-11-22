@@ -1,0 +1,7 @@
+scenario,trial,requests,successful,failed,success_rate_percent,average_rtt_ms,average_sync_error_ms,average_offset_ms,source_file
+Static QoS,Static Trial 1,20,20,0,100.0,1.1634469032287598,0.45713186264038086,0.04150271415710449,Results/Static_QoS/static_fresh_1.csv
+Static QoS,Static Trial 2,20,20,0,100.0,0.6267070770263672,0.19251108169555664,0.13072490692138672,Results/Static_QoS/static_fresh_2.csv
+Static QoS,Static Trial 3,20,20,0,100.0,0.7024765014648438,0.1990199089050293,-0.040853023529052734,Results/Static_QoS/static_fresh_3b.csv
+Dynamic QoS,Dynamic Trial 1,20,20,0,100.0,0.4025578498840332,0.07407665252685547,0.041872262954711914,Results/dynamic_fresh_1.csv
+Dynamic QoS,Dynamic Trial 2,20,20,0,100.0,0.6457090377807617,0.1629352569580078,0.17267465591430664,Results/dynamic_fresh_2.csv
+Dynamic QoS,Dynamic Trial 3,20,20,0,100.0,0.5319476127624512,0.14704465866088867,0.14699101448059082,Results/dynamic_fresh_3.csv
